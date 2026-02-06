@@ -313,6 +313,3 @@ tmp/
 
 ---
 
-## 🔐 License
-Choose a license for your repo (recommended: MIT). Add `LICENSE` file if you want it public + reusable.
-
